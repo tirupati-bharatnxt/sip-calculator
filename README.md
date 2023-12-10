@@ -19,6 +19,21 @@ In developing Sippy, we adhere to a set of high standards and utilize a variety 
 - **Testing**: Emphasis on writing comprehensive unit and integration tests using frameworks like JUnit and Mockito for Flutter.
 - **Documentation**: Clear and concise documentation is a priority, making it easier for new developers to understand and contribute to the project.
 
+## Built With Excellence
+
+Sippy is crafted with a suite of top-tier development tools and practices:
+
+- **Flutter Test**: We ensure the reliability and robustness of Sippy through comprehensive unit and widget testing, leveraging the integrated testing framework provided by Flutter.
+- **Dart Analyzer & Flutter Lint**: Our code is consistently reviewed for quality and potential issues using Dart Analyzer, and we adhere to best practices with Flutter Lint to maintain a high standard of code quality.
+- **Firebase Performance Monitoring**: Performance is key. We continuously monitor our app's performance in real-time, ensuring smooth and efficient user experiences.
+- **Snyk**: Security is paramount. We use Snyk to regularly scan our dependencies, keeping the app secure from vulnerabilities.
+- **Bitrise**: Our CI/CD pipeline, powered by Bitrise, automates our build, test, and deployment processes, ensuring consistent and reliable delivery of updates.
+- **Firebase Crashlytics**: We stay on top of any issues that might occur, with detailed crash reporting from Firebase Crashlytics.
+- **Postman**: Our API development and testing are streamlined using Postman, ensuring seamless integration and communication with backend services.
+- **Bloc Pattern**: For scalable state management, we employ the Bloc pattern, facilitating more predictable state changes and easier debugging.
+- **Flutter Intl**: Sippy is global. We use Flutter Intl for internationalization, making our app accessible to a wider audience.
+- **Firebase Remote Config**: We use Firebase Remote Config for feature flagging and conducting A/B tests, allowing us to roll out features smoothly and measure their impact effectively.
+
 ## Getting Started
 
 To get started with the Sippy project, you'll need to have Flutter installed on your machine. If you're new to Flutter, here are some resources to help you get started:
