@@ -1,6 +1,7 @@
 # Sippy
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/your_codacy_project_grade_badge_id)](Your_Codacy_Project_Link)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a30dadcbb5a947c09c1ba15203569840)](https://app.codacy.com/gh/tirupati-bharatnxt/sip-calculator-flutter/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 [![Bitrise Badge](https://app.bitrise.io/app/your_bitrise_app_id/status.svg?token=your_bitrise_app_token&branch=main)](Your_Bitrise_Project_Link)
 
 Welcome to the Sippy project! Sippy is a mobile application built using Flutter, designed to provide a seamless and engaging user experience. Whether you're a seasoned Flutter developer or just starting out, this project is structured to help you understand and contribute to the world of mobile app development using Flutter.
