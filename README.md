@@ -1,5 +1,6 @@
 # Sippy
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f15ffbc915a640ec8be055ba06f2571d)](https://app.codacy.com/gh/tirupati-bharatnxt/sip-calculator-flutter?utm_source=github.com&utm_medium=referral&utm_content=tirupati-bharatnxt/sip-calculator-flutter&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/your_codacy_project_grade_badge_id)](Your_Codacy_Project_Link)
 [![Bitrise Badge](https://app.bitrise.io/app/your_bitrise_app_id/status.svg?token=your_bitrise_app_token&branch=main)](Your_Bitrise_Project_Link)
 
